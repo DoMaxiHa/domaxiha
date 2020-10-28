@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I am Dominik ;)
+
+Some informations :point_down:
+
+- :small_red_triangle_down: Developer of [Imperia Discord.py](https://github.com/gb-clan/imperia-discord.py)
+
+<h3 align="left">Some things I work with:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=domaxiha&show_icons=true&locale=en" alt="domaxiha" /></p>-->
+
 
 <!--
 **DoMaxiHa/domaxiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
